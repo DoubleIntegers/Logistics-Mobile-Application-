@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "726528485017",
+    "project_id": "logitrack-4b534",
+    "storage_bucket": "logitrack-4b534.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:726528485017:android:bf9c71f7903cbf17cd7a08",
+        "android_client_info": {
+          "package_name": "com.example.project1_ambw"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBYffHFJP7JHV0zUz3SP0mkHM0hhm6vsU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
